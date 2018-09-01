@@ -1,1 +1,2 @@
-puts(maru)
+puts(x)
+puts(adddd)
